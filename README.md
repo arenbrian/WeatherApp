@@ -1,6 +1,6 @@
 How to run:
-Open terminal
-Type pip install flask
-Run it by typing python weather_app.py
-Copy http url it gives you in terminal
-Paste in Google Chrome and Search
+1. Open terminal
+2. Type pip install flask
+3. Run it by typing python weather_app.py
+4. Copy http url it gives you in terminal
+5. Paste in Google Chrome and Search
